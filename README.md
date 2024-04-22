@@ -3,6 +3,10 @@
 ## About me:
 I am a Mexican videogame developer with 2 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than 19.5 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
 
+### Social and Contact
+- Roblox Profile: [Profile](https://www.roblox.com/users/2255195190/)
+- Discord User: qu4lcs (Only business)
+
 ## My knowledge:
 - I have experience in popular libraries, among them are [Knit](https://sleitnick.github.io/Knit/), [Fusion](https://elttob.uk/Fusion/0.3/), [ProfileService](https://madstudioroblox.github.io/ProfileService/), Etc.
 - I have experience in UI/UX development.
