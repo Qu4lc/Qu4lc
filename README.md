@@ -1,10 +1,9 @@
-# Hi there 👋
-### **Hello everybody, welcome to my personal github! ⭐**
+# **Hello everybody 👋, welcome to my personal github! ⭐**
 
-# About me:
+## About me:
 I am a Mexican videogame developer with 2 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than 19.5 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
 
-# My knowledge:
+## My knowledge:
 - I have experience in popular libraries, among them are [Knit](https://sleitnick.github.io/Knit/), [Fusion](https://elttob.uk/Fusion/0.3/), [ProfileService](https://madstudioroblox.github.io/ProfileService/), Etc.
 - I have experience in UI/UX development.
 - I have experience working in DataStores.
@@ -12,7 +11,7 @@ I am a Mexican videogame developer with 2 years of experience specialized in Scr
   
 which does not mean that I can't make mistakes or that I am the best at developing these systems, I am always learning and improving my skills and reinforcing my knowledge.
 
-# My work method:
+## My work method:
 In general, I always try to understand what the client needs by gathering as many references as possible always maintaining a formal atmosphere and with the greatest possible respect, where I am committed to provide a first class service and deliver a job well done according to what is required.
 
 ### How commissions are made:
