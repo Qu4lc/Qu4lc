@@ -38,3 +38,10 @@ VIDEO OF: Bullet Effects.
 https://github.com/Qu4lc/Qu4lc/assets/109699514/7678d265-9e97-497e-93dd-234d0775309c
 
 ## Contributions
+
+### Roblox game: Trucking Empire
+- **Game link:** [**Trucking Empire**](https://www.roblox.com/games/7345818711)
+
+![image](https://github.com/Qu4lc/Qu4lc/assets/109699514/fc4ebc74-d3b3-4b3c-ac31-f93c7f196623)
+
+
