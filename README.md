@@ -1,5 +1,5 @@
 # Hi there 👋
-## Hello everybody, welcome to my personal github! ⭐
+### **Hello everybody, welcome to my personal github! ⭐**
 
 # About me:
 I am a Mexican videogame developer with 2 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than 19.5 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
