@@ -22,8 +22,11 @@ In general, I always try to understand what the client needs by gathering as man
 - At the moment of requesting a commission, references and a complete description of what you are looking for will be requested and the cost will be negotiated along with the delivery times where a preview and access to a private place will be provided for the client to verify the system.
 
 ### Costs and delivery times:
-- The cost of the commission will be negotiated depending on the complexity and the time it will take me to complete it.
+- The cost of the order will be negotiated according to the complexity and the time it will take me to complete it with a minimum price of 5.000 Robux or 10 Dollars.
 - The delivery time will be defined depending on the complexity of the system. The more time you have to do it, the better the overall quality.
+
+### Methods of payment:
+I accept only 3 methods currently paypal, payment by gamepass adding taxes or by group (for long term commissions).
 
 ## Previous works
 Here is a sample of my previous works
