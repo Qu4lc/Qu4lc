@@ -1,7 +1,7 @@
 # **Hello everybody 👋, welcome to my personal github!**
 
 ## About me:
-I am a Mexican videogame developer with 4 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than +20 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
+I'm a Mexican videogame developer with 4 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than +20 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
 
 ### Social and Contact
 - Roblox Profile: [Profile](https://www.roblox.com/users/2255195190/)
@@ -13,7 +13,7 @@ I am a Mexican videogame developer with 4 years of experience specialized in Scr
 - I have experience working in DataStores.
 - I have experience developing systems such as Combat, Weapons, Movement and others;
   
-which does not mean that I can't make mistakes or that I am the best at developing these systems, I am always learning and improving my skills and reinforcing my knowledge.
+which doesn't mean that I can't make mistakes or that I am the best at developing these systems, I am always learning and improving my skills and reinforcing my knowledge.
 
 ## My work method:
 In general, I always try to understand what the client needs by gathering as many references as possible always maintaining a formal atmosphere and with the greatest possible respect, where I am committed to provide a first class service and deliver a job well done according to what is required.
