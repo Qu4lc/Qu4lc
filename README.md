@@ -13,10 +13,10 @@ I'm a Mexican videogame developer with 4 years of experience specialized in Scri
 - I have experience working in DataStores.
 - I have experience developing systems such as Combat, Weapons, Movement and others;
   
-which doesn't mean that I can't make mistakes or that I am the best at developing these systems, I am always learning and improving my skills and reinforcing my knowledge.
+which doesn't mean that I can't make mistakes or that I'm the best at developing these systems, I'm always learning and improving my skills and reinforcing my knowledge.
 
 ## My work method:
-In general, I always try to understand what the client needs by gathering as many references as possible always maintaining a formal atmosphere and with the greatest possible respect, where I am committed to provide a first class service and deliver a job well done according to what is required.
+In general, I always try to understand what the client needs by gathering as many references as possible always maintaining a formal atmosphere and with the greatest possible respect, where I'm committed to provide a first class service and deliver a job well done according to what is required.
 
 ### How commissions are made:
 - At the moment of requesting a commission, references and a complete description of what you are looking for will be requested and the cost will be negotiated along with the delivery times where a preview and access to a private place will be provided for the client to verify the system.
