@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/e4438f9c-31bd-4437-8500-aaa9c56c72bd
 
 https://github.com/user-attachments/assets/9f01fe19-2fde-40bb-a821-e0f1dfd077b3
 
-### Dynamic Alert UI
+### Dynamic Alert UI (With Fusion)
 
 https://github.com/user-attachments/assets/f0e8b079-39a0-40a3-89af-c2725045b776
 
