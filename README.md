@@ -59,6 +59,9 @@ https://github.com/user-attachments/assets/9f01fe19-2fde-40bb-a821-e0f1dfd077b3
 
 https://github.com/user-attachments/assets/f0e8b079-39a0-40a3-89af-c2725045b776
 
+### Distance-based Highlight Module
+
+https://github.com/user-attachments/assets/ed061e2b-ce04-4222-b0aa-ddbf680300bb
 
 
 
