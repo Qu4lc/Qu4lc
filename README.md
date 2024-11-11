@@ -45,4 +45,20 @@ VIDEO OF: Attachments and Effects
 
 https://github.com/user-attachments/assets/e132b3fa-95e2-4fa2-acfa-6bdc791a4dd2
 
+### Simple Placement System:
+
+https://github.com/user-attachments/assets/b3aff88e-0361-417e-84ac-7b635c161c7c
+
+### Path generation systems with road tracing (Testing Videos)
+
+https://github.com/user-attachments/assets/e4438f9c-31bd-4437-8500-aaa9c56c72bd
+
+https://github.com/user-attachments/assets/9f01fe19-2fde-40bb-a821-e0f1dfd077b3
+
+### Dynamic Alert UI
+
+https://github.com/user-attachments/assets/f0e8b079-39a0-40a3-89af-c2725045b776
+
+
+
 
