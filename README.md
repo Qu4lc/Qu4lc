@@ -11,7 +11,7 @@ I'm a Mexican videogame developer with 4 years of experience specialized in Scri
 - I have experience in popular libraries, among them are [Knit](https://sleitnick.github.io/Knit/), [Fusion](https://elttob.uk/Fusion/0.3/), [ProfileService](https://madstudioroblox.github.io/ProfileService/), Etc.
 - I have experience in UI/UX development.
 - I have experience working in DataStores.
-- I have experience developing systems such as Combat, Weapons, Movement and others;
+- I have experience developing systems such as Combat, Weapons, Movement, AIs and others;
   
 which doesn't mean that I can't make mistakes or that I'm the best at developing these systems, I'm always learning and improving my skills and reinforcing my knowledge.
 
