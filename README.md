@@ -1,7 +1,9 @@
 # **Hello everyone 👋, welcome to my personal GitHub!**  
 
 ## About Me  
-I'm a **Mexican video game developer** with **4 years of experience**, specializing in **scripting, UI/UX design, and system building** within the [Roblox platform](https://www.roblox.com/). Over the years, I have contributed to multiple projects, accumulating **over 25 million visits** on the platform. My passion for development and my commitment to continuous improvement drive me to create **high-quality and efficient systems** tailored to their intended use.  
+I'm a **Mexican video game developer** with **4 years of experience**, specializing in **scripting, UI/UX design, and system building** within the [Roblox platform](https://www.roblox.com/). Over the years, I have contributed to multiple projects, accumulating **over 25 million visits** on the platform.  
+
+I'm currently pursuing a **Bachelor's Degree in Computer Systems Engineering**, which allows me to further enhance my knowledge in **software development, algorithms, and system optimization**. My passion for development and my commitment to continuous improvement drive me to create **high-quality and efficient systems** tailored to their intended use.  
 
 ## Social & Contact  
 - **Roblox Profile:** [Profile](https://www.roblox.com/users/2255195190/)  
