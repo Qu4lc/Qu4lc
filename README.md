@@ -1,67 +1,34 @@
-# **Hello everybody 👋, welcome to my personal github!**
+# **Hello everyone 👋, welcome to my personal GitHub!**  
 
-## About me:
-I'm a Mexican videogame developer with 4 years of experience specialized in Scripting, UI/UX Desing and Building within the [Roblox platform](https://www.roblox.com/) where along these years I have participated in some projects contributing to more than +25 Million visits within the platform. My motivations have always been my taste for development and my interest to constantly improve myself, always looking to create quality and effective systems in their respective uses.
+## About Me  
+I'm a **Mexican video game developer** with **4 years of experience**, specializing in **scripting, UI/UX design, and system building** within the [Roblox platform](https://www.roblox.com/). Over the years, I have contributed to multiple projects, accumulating **over 25 million visits** on the platform. My passion for development and my commitment to continuous improvement drive me to create **high-quality and efficient systems** tailored to their intended use.  
 
-### Social and Contact
-- Roblox Profile: [Profile](https://www.roblox.com/users/2255195190/)
-- Discord User: qu4lcs (Only business)
+## Social & Contact  
+- **Roblox Profile:** [Profile](https://www.roblox.com/users/2255195190/)  
+- **Discord:** qu4lcs *(Business inquiries only)*  
 
-## My knowledge:
-- I have experience in popular libraries, among them are [Knit](https://sleitnick.github.io/Knit/), [Fusion](https://elttob.uk/Fusion/0.3/), [ProfileService](https://madstudioroblox.github.io/ProfileService/), Etc.
-- I have experience in UI/UX development.
-- I have experience working in DataStores.
-- I have experience developing systems such as Combat, Weapons, Movement, and others;
-- I'm also experimenting with complex systems such as IAs, Complex Missions, among others.
-  
-which doesn't mean that I can't make mistakes or that I'm the best at developing these systems, I'm always learning and improving my skills and reinforcing my knowledge.
+## My Skills  
+- Proficient in popular libraries such as [Knit](https://sleitnick.github.io/Knit/), [Fusion](https://elttob.uk/Fusion/0.3/), and [ProfileService](https://madstudioroblox.github.io/ProfileService/).  
+- Experienced in **UI/UX development** and **DataStore management**.  
+- Developed **combat systems, weapons, movement mechanics**, and more.  
+- Currently experimenting with **AI, complex mission systems**, and other advanced mechanics.  
 
-## My work method:
-In general, I always try to understand what the client needs by gathering as many references as possible always maintaining a formal atmosphere and with the greatest possible respect, where I'm committed to provide a first class service and deliver a job well done according to what is required.
+I acknowledge that learning is an ongoing process, and I am always improving my skills to deliver the best possible results.  
 
-### How commissions are made:
-- At the moment of requesting a commission, references and a complete description of what you are looking for will be requested and the cost will be negotiated along with the delivery times where a preview and access to a private place will be provided for the client to verify the system.
+## Work Methodology  
+I prioritize understanding the client’s needs by gathering **detailed references** while maintaining a **professional and respectful communication style**. My goal is to deliver **top-quality work** that meets or exceeds expectations.  
 
-### Costs and delivery times:
-- The cost of the order will be negotiated according to the complexity and the time it will take me to complete it with a minimum price of 5.000 Robux or 10 Dollars.
-- The delivery time will be defined depending on the complexity of the system. The more time you have to do it, the better the overall quality.
+### Commission Process  
+- When requesting a commission, I will ask for **detailed references** and a **clear project description**.  
+- We will discuss **pricing and delivery timelines** based on complexity.  
+- A **preview and access to a private place** will be provided for the client to review the system before finalizing.  
 
-### Methods of payment:
-I accept only 3 methods currently paypal, payment by gamepass adding taxes or by group (for long term commissions).
+### Pricing & Delivery  
+- Pricing is determined based on **complexity and required development time**, with a **minimum fee of 5,000 Robux or $10 USD**.  
+- The **delivery timeframe** depends on project complexity. More time allows for better quality and refinement.  
 
-## Previous works
-Here is a sample of my previous works
-
-### A Framework (WIP):
-VIDEO OF: Testing (OLD). 
-
-https://github.com/Qu4lc/Qu4lc/assets/109699514/d5e1d884-f267-4f9c-bb13-de0e87e7a491
-
-VIDEO OF: Bullet Effects (OLD).
-
-https://github.com/Qu4lc/Qu4lc/assets/109699514/7678d265-9e97-497e-93dd-234d0775309c
-
-VIDEO OF: Attachments and Effects (NEW)
-
-https://github.com/user-attachments/assets/e132b3fa-95e2-4fa2-acfa-6bdc791a4dd2
-
-### Simple Placement System:
-
-https://github.com/user-attachments/assets/b3aff88e-0361-417e-84ac-7b635c161c7c
-
-### Path generation systems with road tracing (Testing Videos)
-
-https://github.com/user-attachments/assets/e4438f9c-31bd-4437-8500-aaa9c56c72bd
-
-https://github.com/user-attachments/assets/9f01fe19-2fde-40bb-a821-e0f1dfd077b3
-
-### Dynamic Alert UI (With Fusion)
-
-https://github.com/user-attachments/assets/f0e8b079-39a0-40a3-89af-c2725045b776
-
-### Distance-based Highlight Module
-
-https://github.com/user-attachments/assets/ed061e2b-ce04-4222-b0aa-ddbf680300bb
-
-
-
+### Payment Methods  
+I currently accept the following payment methods:  
+- **PayPal**  
+- **Gamepass payment (with added tax)**  
+- **Group payments** *(for long-term commissions)*  
