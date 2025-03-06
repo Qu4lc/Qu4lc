@@ -34,3 +34,6 @@ I currently accept the following payment methods:
 - **PayPal**  
 - **Gamepass payment (with added tax)**  
 - **Group payments** *(for long-term commissions)*  
+
+### Past work
+For personal reasons I have not developed things specifically for the portfolio, but in the same repository you will find .md files with information of my previous works.
