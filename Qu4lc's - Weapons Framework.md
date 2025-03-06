@@ -1,5 +1,5 @@
 ### Advanced Weapon Framework for Roblox (2024)  
-This project is an advanced weapon framework developed in Roblox during 2024, designed to provide a flexible and optimized foundation for creating combat systems in Roblox experiences. The framework stands out for its modularity, performance, and ease of customization, allowing developers to integrate firearms, melee weapons, and other mechanics with advanced features.  
+This project is an advanced weapon framework developed in Roblox during 2024, designed to provide a flexible and optimized foundation for creating combat systems in Roblox experiences. The framework stands out for its modularity, performance, and ease of customization, allowing developers to integrate firearms with advanced features.  
 
 #### Key Features:  
 - **Modular system:** Easily add or modify weapons.  
