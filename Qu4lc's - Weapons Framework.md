@@ -8,10 +8,6 @@ This project is an advanced weapon framework developed in Roblox during 2024, de
 - **Support for custom animations.**  
 - **Weapon customization system (attachments, skins).**  
 
-This project showcases my dedication to developing efficient and scalable systems within the Roblox platform, as well as my focus on delivering high-quality experiences.  
-
-Let me know if you’d like to highlight any additional details! 🚀
-
 VIDEO OF: Testing (EARLY VERSION). 
 
 https://github.com/Qu4lc/Qu4lc/assets/109699514/d5e1d884-f267-4f9c-bb13-de0e87e7a491
